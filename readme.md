@@ -13,7 +13,7 @@ readme.md
 | ------------- |:-------------:| 
 | send_tweet.php| 実行されるファイル | 
 | to_tweet.json | tweet情報を持つファイル | 
-| twitteroauth/*| ライブラリーファイル     | 
+| vendor/*| ライブラリーファイル     | 
 
 ### Botの設定
 
