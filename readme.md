@@ -5,7 +5,7 @@ readme.md
 ![copyright:jojo-net.info](https://img.shields.io/badge/copyright-jojonet-green.svg)
 ![version 1.0](https://img.shields.io/badge/version-1.0-red.svg)
 
-[blog.jojo-net.info](http://blog.jojo-net.info/)　の twitter bot 実装コードです。
+[blog.jojo-net.info](http://blog.jojo-net.info/create-a-bot-twitter/ )　の twitter bot 実装コードです。
 
 ### ファイル構成
 
