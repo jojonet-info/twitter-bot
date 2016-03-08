@@ -1,0 +1,12 @@
+{
+    "tweets": [
+        {
+            "message": "Hello world",
+            "image": "http://blog.jojo-net.info/wp-content/uploads/2016/02/jojo-net-logo-1.png"
+        },
+        {
+           "message": "Hello world, 2!",
+           "image": ""
+        }
+     ]
+}
